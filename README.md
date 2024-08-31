@@ -1,4 +1,15 @@
 # Panduan Instalasi Linux Mint di VirtualBox
+## Tugas 1 & Tugas 2
+Nama : Raihan Faiz Ramadhan
+
+NIM: 09011182328093
+
+Kelas: SK3C
+
+MK: Praktikum Sistem Operasi
+
+## Tugas 1
+### 1. Buatlah laporan proses instalasi di computer mahasiswa dan tampilkan screenshotnya.
 
 ## Langkah-langkah Instalasi
 
@@ -118,13 +129,13 @@
     ![Linux Mint Siap](https://github.com/RaihanFaiz165/Raihan-Faiz-Ramadhan_09011182328093_Tugas-1-dan-2_-Sistem-Operasi/blob/main/Gambar%20langkah-langkah%20sistem%20operasi/24.png)
 
 
-## Latihan Soal
+## Tugas 2
 
-### 1. Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point ? 
+### 2. Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point ? 
 
 Saat instalasi,alasan mengapa “/” perlu dipilih ketika Mount Point karena simbol “/” pada opsi Mount Point digunakan sebagai simbol direktori partisi dalam sistem file Linux. Direktori root ini merupakan titik awal semua file dan sistem yang disimpan di direktori ini.Simbol “/” tidak hanya digunakan pada sistem operasi Linux saja,sistem operasi Windows juga menggunakan simbol ini sebagai direktori root.
 
-### 2. Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs !
+### 3. Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs !
 
 - **EXT4**: EXT4 adalah sistem file yang dikembangkan  untuk meningkatkan performa pada Linux. Berbeda dengan EXT3, EXT4 mendukung partisi berukuran lebih besar, seperti ratusan gigabyte (GB) hingga 1 terabyte (TB).
 
